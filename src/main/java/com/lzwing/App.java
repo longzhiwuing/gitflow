@@ -6,8 +6,9 @@ package com.lzwing;
  */
 public class App 
 {
+    //fix QA bugs...
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "publish change hello World!" );
     }
 }
